@@ -1,0 +1,17 @@
+body
+{
+    animation: backgroundX 30s infinite linear;
+
+}
+@keyframes backgroundX
+{
+    0% {background-color: rgb(255, 90, 90)}
+    14% {background-color: rgb(255, 165, 90)}
+    28% {background-color: rgb(191, 255, 90)}
+    42% {background-color: rgb(90, 255, 90)}
+    57% {background-color: rgb(90, 255, 165)}
+    71% {background-color: rgb(90, 90, 255)}
+    85% {background-color: rgb(255, 90, 165)}
+    100% {background-color: rgb(255, 90, 90)}
+    
+}
