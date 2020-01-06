@@ -179,6 +179,10 @@ function CHECK()
                 {
                     window.close()
                 }
+                else
+                {
+                    location.reload()
+                }
             }, 100)
         }
         if(turnteam2 === true)
